@@ -4,8 +4,6 @@ title:
 excerpt: "Research"
 author_profile: true
 redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 ## Information, citizen behavior, and political accountability/selection
