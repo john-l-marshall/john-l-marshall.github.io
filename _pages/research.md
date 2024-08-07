@@ -1,11 +1,11 @@
 ---
-permalink: /
+permalink: /research/
 title: 
 excerpt: "Research"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /research/
+  - /research.html
 ---
 
 ## Information, citizen behavior, and political accountability/selection
