@@ -11,4 +11,4 @@ Before joining Columbia, I received a PhD in Government at Harvard in 2016, an M
 
 In my spare time I play and watch football and try to explore the world a bit. I am still hoping [Watford FC](https://www.watfordfc.com/) will return to (relative) greatness (update: this is not going especially well). 
 
-My partner [Rakeen Mabud](https://groundworkcollaborative.org/person/rakeen-mabud) is Chief Economist and Senior Fellow at the Groundwork Collaborative. You should check out her important work!
+My partner [Rakeen Mabud](https://groundworkcollaborative.org/person/rakeen-mabud) is Chief Economist and Senior Fellow at the Groundwork Collaborative. You should check out her important work! My daughter is more focused on standing up.
