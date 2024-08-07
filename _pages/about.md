@@ -14,6 +14,6 @@ My research lies at the intersection of comparative politics and political econo
 
 My publications, working papers, and coauthors can be found [here](https://john-l-marshall.github.io/publications). Feel free to contact me about ongoing research projects. 
 
-My CV is [here](https://www.dropbox.com/scl/fi/cj3vpv4k9as5wph1t4lu7/CV.pdf?rlkey=qq0i7f3u2actz6ysq8xwvvgmc&st=lvhjh2ws&dl=0) and my Google Scholar page is [here](https://www.wejoinin.com/jm4401).
+My CV is [here](https://www.dropbox.com/scl/fi/cj3vpv4k9as5wph1t4lu7/CV.pdf?rlkey=qq0i7f3u2actz6ysq8xwvvgmc&st=lvhjh2ws&dl=0) and my Google Scholar page is [here](https://scholar.google.com/citations?user=F2EwrhcAAAAJ&hl=en).
 
-Students can sign up for my office hours [here](https://scholar.google.com/citations?user=F2EwrhcAAAAJ&hl=en).
+Students can sign up for my office hours [here](https://www.wejoinin.com/jm4401).
