@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : 
+title                    : "John Marshall"
 title_separator          : "-"
 name                     : &name "John Marshall"
 description              : &description "personal description"
