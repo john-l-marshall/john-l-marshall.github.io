@@ -5,7 +5,7 @@ excerpt: "Teaching"
 author_profile: true
 ---
 
-* POLS GR6411: Comparative Politics Survey I (graduate field seminar): Fall 2018; Fall 2020; Fall 2022; Fall 2024. \[[latest syllabus](../files/POLS_GR6411_Syllabus_2022.pdf)\]
+* POLS GR6411: Comparative Politics Survey I (graduate field seminar): Fall 2018; Fall 2020; Fall 2022; Fall 2024. \[[latest syllabus](../files/POLS_GR6411_Syllabus_2024.pdf)\]
 
 * POLS GR8422: Political Economy Analysis of Political Behavior (graduate seminar): Spring 2017; Fall 2017; Fall 2019; Fall 2021; Fall 2023. \[[latest syllabus](../files/POLS_GR8422_Syllabus_2023.pdf)\]
 
