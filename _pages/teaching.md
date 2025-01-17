@@ -15,4 +15,4 @@ author_profile: true
 
 * POLS UN3535: Comparative Political Economy (undergraduate lecture): Fall 2016. \[[latest syllabus](../files/POLS_UN3535_Syllabus_2016.pdf)\]
 
-* POLS UN3952y: Information, Media, and Political Behavior (undergraduate seminar): Spring 2017; Spring 2021; Fall 2021; Fall 2022; Fall 2023. \[[latest syllabus](../files/POLS_UN3951_Syllabus_2023.pdf)\]
+* POLS UN3951/2: Information, Media, and Political Behavior (undergraduate seminar): Spring 2017; Spring 2021; Fall 2021; Fall 2022; Fall 2023. \[[latest syllabus](../files/POLS_UN3951_Syllabus_2023.pdf)\]
