@@ -8,6 +8,7 @@ author_profile: true
 ## Information, citizen behavior, and political accountability/selection
 
 * John Marshall. The news voters use: Information consumption and electoral accountability in Mexico. \[[book outline](../files/book_outline_2022.pdf)\]
+
 * Bowles, Jeremy, Kevin Croke, Horacio Larreguy, Shelley Liu, and John Marshall. Forthcoming. [Sustaining Exposure to Fact-checks: Misinformation Discernment, Media Consumption, and its Political Implications](https://www.cambridge.org/core/journals/american-political-science-review/article/sustaining-exposure-to-factchecks-misinformation-discernment-media-consumption-and-its-political-implications/C9CC3A0C7BAF7BADBEF0DA6350A875C8). <i><b>American Political Science Review</b></i>. \[[preprint](../files/misinformation_podcasts.pdf), [registration](https://www.socialscienceregistry.org/trials/7615), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UNOOY0)\]
 <details>
   <br>
@@ -18,6 +19,7 @@ author_profile: true
     </td></tr>
   </table>
 </details>
+
 * Arias, Eric, Horacio Larreguy, John Marshall, and Pablo Querub&iacute;n. Forthcoming. [When does information influence voters? Evidence from a field experiment varying the content and form of government performance leaflets](../files/when_does_information_influence_voters.pdf). <i><b>Latin American Economic Review</b></i>. \[[registration](https://osf.io/yjue9), [EGAP Metaketa I project](http://web.archive.org/web/20240723225110/http://egap.org/content/common-knowledge-relative-performance-and-political-accountability-0)\]
 * Enr&iacute;quez, Jos&eacute; Ram&oacute;n, Horacio Larreguy, John Marshall, and Alberto Simpser. 2024. [Mass political information on social media: Facebook ads, electorate saturation, and electoral accountability in Mexico](https://academic.oup.com/jeea/article-abstract/22/4/1678/7607367). <i><b>Journal of the European Economic Association</b></i> 22(4):1678-1722. \[[preprint](../files/mexico_facebook_saturation.pdf), [registration](https://www.socialscienceregistry.org/trials/3135), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4PSW76)\]
 * Bhandari, Abhit, Horacio Larreguy, and John Marshall. 2023. [Able and mostly willing: An empirical anatomy of information's effect on voter-driven accountability in Senegal](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12591). <i><b>American Journal of Political Science</b></i> 67(4):1040-1066. \[[preprint](../files/accountability_senegal.pdf), [registration](https://www.socialscienceregistry.org/trials/2324), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QAJQXP), [AJPS blog](https://ajps.org/2021/03/08/able-and-mostly-willing-an-empirical-anatomy-of-informations-effect-on-voter%E2%80%90driven-accountability-in-senegal/)\]
