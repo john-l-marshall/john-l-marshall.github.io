@@ -13,13 +13,17 @@ Bowles, Jeremy, Kevin Croke, Horacio Larreguy, Shelley Liu, and John Marshall. F
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
   <details>
   <summary><i>Abstract</i></summary>
-  <table><tr><td>
   Exposure to misinformation can affect citizens’ beliefs, political preferences, and compliance with government policies. However, little is known about how to durably reduce susceptibility to misinformation, particularly in the Global South. We evaluate an intervention in South Africa that encouraged individuals to consume biweekly fact-checks—as text messages or podcasts—via WhatsApp for six months. Sustained exposure to these fact-checks induced substantial internalization of fact-checked content, while increasing participants’ ability to discern new political and health misinformation upon exposure—especially when fact-check consumption was financially incentivized. Fact-checks that could be quickly consumed via short text messages or via podcasts with empathetic content were most effective. We find limited effects on news consumption choices or verification behavior, but still observe changes in political attitudes and COVID-19-related behaviors. These results demonstrate that sustained exposure to fact-checks can inoculate citizens against future misinformation, but highlight the difficulty of inducing broader behavioral changes relating to media usage.
-  </td></tr></table>
   </details>
 </div>
 
 Arias, Eric, Horacio Larreguy, John Marshall, and Pablo Querub&iacute;n. Forthcoming. [When does information influence voters? Evidence from a field experiment varying the content and form of government performance leaflets](../files/when_does_information_influence_voters.pdf). <i><b>Latin American Economic Review</b></i>. \[[registration](https://osf.io/yjue9), [EGAP Metaketa I project](http://web.archive.org/web/20240723225110/http://egap.org/content/common-knowledge-relative-performance-and-political-accountability-0)\]
+<div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
+  <details>
+  <summary><i>Abstract</i></summary>
+  Evidence that information campaigns help voters select better politicians is mixed. We propose that comparative performance information and public dissemination may moderate information’s effects on electoral accountability, by respectively helping voters to identify malfeasance incumbent parties and facilitating coordination around the information. We test these mechanisms using a large-scale field experiment that provided voters with the results of audit reports documenting mayoral malfeasance before the 2015 Mexican municipal elections. We find that neither benchmarking incumbent performance against mayors from other parties within the state, nor accompanying leaflet delivery with loudspeakers announcing the leaflets’ delivery, significantly moderated the effects of information on voter beliefs or incumbent party vote share. Comparative performance information’s ineffectiveness likely reflects voters’ limited updating from the particular comparison provided, while the loudspeaker created common knowledge without meaningfully facilitating voter coordination. The results highlight challenges in designing informational campaigns to capture the theoretical conditions conducive to electoral accountability.
+  </details>
+</div>
 
 Enr&iacute;quez, Jos&eacute; Ram&oacute;n, Horacio Larreguy, John Marshall, and Alberto Simpser. 2024. [Mass political information on social media: Facebook ads, electorate saturation, and electoral accountability in Mexico](https://academic.oup.com/jeea/article-abstract/22/4/1678/7607367). <i><b>Journal of the European Economic Association</b></i> 22(4):1678-1722. \[[preprint](../files/mexico_facebook_saturation.pdf), [registration](https://www.socialscienceregistry.org/trials/3135), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4PSW76)\]
 
