@@ -141,7 +141,7 @@ Enr&iacute;quez, Jos&eacute; Ram&oacute;n, Horacio Larreguy, John Marshall, and 
 
 ## Education, political preferences, and voting behavior
 
-* Marshall, John. 2019. [The anti-Democrat diploma: How high school education decreases support for the Democratic party](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12409). <i><b>American Journal of Political Science</b></i> 61(1):67-83. \[[preprint](../files/anti_democrat_diploma.pdf), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GPRVC6)\]
+Marshall, John. 2019. [The anti-Democrat diploma: How high school education decreases support for the Democratic party](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12409). <i><b>American Journal of Political Science</b></i> 61(1):67-83. \[[preprint](../files/anti_democrat_diploma.pdf), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GPRVC6)\]
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
   <details>
   <summary><i>Abstract</i></summary>
@@ -149,7 +149,7 @@ Enr&iacute;quez, Jos&eacute; Ram&oacute;n, Horacio Larreguy, John Marshall, and 
   </details>
 </div>
 
-* Cavaille, Charlotte and John Marshall. 2019. [Education and anti-immigration attitudes: Evidence from compulsory schooling reforms across Western Europe](https://www.cambridge.org/core/journals/american-political-science-review/article/education-and-antiimmigration-attitudes-evidence-from-compulsory-schooling-reforms-across-western-europe/15551FC325C118588CF61113697488A3). <i><b>American Political Science Review</b></i> 113(1):254-263. \[[preprint](../files/education_immigration.pdf), [replication; the syntax and bias correction method for the "rdrobust" command have been updated since we published this paper](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDSRWF)\]
+Cavaille, Charlotte and John Marshall. 2019. [Education and anti-immigration attitudes: Evidence from compulsory schooling reforms across Western Europe](https://www.cambridge.org/core/journals/american-political-science-review/article/education-and-antiimmigration-attitudes-evidence-from-compulsory-schooling-reforms-across-western-europe/15551FC325C118588CF61113697488A3). <i><b>American Political Science Review</b></i> 113(1):254-263. \[[preprint](../files/education_immigration.pdf), [replication; the syntax and bias correction method for the "rdrobust" command have been updated since we published this paper](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDSRWF)\]
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
   <details>
   <summary><i>Abstract</i></summary>
@@ -157,7 +157,7 @@ Enr&iacute;quez, Jos&eacute; Ram&oacute;n, Horacio Larreguy, John Marshall, and 
   </details>
 </div>
 
-* Larreguy, Horacio and John Marshall. 2017. [The effect of education on political engagement in non-consolidated democracies: Evidence from Nigeria](https://direct.mit.edu/rest/article/99/3/387/58449/The-Effect-of-Education-on-Civic-and-Political). <i><b>Review of Economics and Statistics</b></i> 99(3):387-401. \[[preprint](../files/nigeria_education.pdf), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JZKKZB)\]
+Larreguy, Horacio and John Marshall. 2017. [The effect of education on political engagement in non-consolidated democracies: Evidence from Nigeria](https://direct.mit.edu/rest/article/99/3/387/58449/The-Effect-of-Education-on-Civic-and-Political). <i><b>Review of Economics and Statistics</b></i> 99(3):387-401. \[[preprint](../files/nigeria_education.pdf), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JZKKZB)\]
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
   <details>
   <summary><i>Abstract</i></summary>
@@ -165,7 +165,7 @@ Enr&iacute;quez, Jos&eacute; Ram&oacute;n, Horacio Larreguy, John Marshall, and 
   </details>
 </div>
 
-* Croke, Kevin, Guy Grossman, Horacio Larreguy, and John Marshall. 2016. [Deliberate disengagement: How education can decrease political participation in electoral authoritarian regimes](https://www.cambridge.org/core/journals/american-political-science-review/article/deliberate-disengagement-how-education-can-decrease-political-participation-in-electoral-authoritarian-regimes/192AB48618B0E0450C93E97BE8321218). <i><b>American Political Science Review</b></i> 110(3):579-600. \[[preprint](../files/deliberate_disengagement.pdf), [replication](https://www.dropbox.com/scl/fo/bs7jfl5kn3j528ol5g1jp/ADUv98tgR5UhIC1Mba94PVA?rlkey=dn86ai2i94vzth01l91kj36vx&st=uhdlafh3&dl=0)\]
+Croke, Kevin, Guy Grossman, Horacio Larreguy, and John Marshall. 2016. [Deliberate disengagement: How education can decrease political participation in electoral authoritarian regimes](https://www.cambridge.org/core/journals/american-political-science-review/article/deliberate-disengagement-how-education-can-decrease-political-participation-in-electoral-authoritarian-regimes/192AB48618B0E0450C93E97BE8321218). <i><b>American Political Science Review</b></i> 110(3):579-600. \[[preprint](../files/deliberate_disengagement.pdf), [replication](https://www.dropbox.com/scl/fo/bs7jfl5kn3j528ol5g1jp/ADUv98tgR5UhIC1Mba94PVA?rlkey=dn86ai2i94vzth01l91kj36vx&st=uhdlafh3&dl=0)\]
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
   <details>
   <summary><i>Abstract</i></summary>
@@ -173,7 +173,7 @@ Enr&iacute;quez, Jos&eacute; Ram&oacute;n, Horacio Larreguy, John Marshall, and 
   </details>
 </div>
 
-* Marshall, John. 2016. [Education and voting Conservative: Evidence from a major schooling reform in Great Britain](https://www.journals.uchicago.edu/doi/full/10.1086/683848). <i><b>Journal of Politics</b></i> 78(2):382-395. \[[preprint](../files/britain_schooling_reform.pdf), [replication; the syntax and bias correction method for the "rdrobust" command have been updated since I published this paper](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YJMGPP)\]
+Marshall, John. 2016. [Education and voting Conservative: Evidence from a major schooling reform in Great Britain](https://www.journals.uchicago.edu/doi/full/10.1086/683848). <i><b>Journal of Politics</b></i> 78(2):382-395. \[[preprint](../files/britain_schooling_reform.pdf), [replication; the syntax and bias correction method for the "rdrobust" command have been updated since I published this paper](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YJMGPP)\]
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
   <details>
   <summary><i>Abstract</i></summary>
@@ -185,7 +185,7 @@ Enr&iacute;quez, Jos&eacute; Ram&oacute;n, Horacio Larreguy, John Marshall, and 
 
 ## Clientelism and party election strategies
 
-* Cruz, Cesi, Horacio Larreguy, and John Marshall. 2020. [Social network effects in developing countries](https://academic.oup.com/edited-volume/28311/chapter/215023573). In the <i><b>Oxford Handbook of Electoral Persuasion</b></i>, edited by Elizabeth Suhay, Bernard Grofman, and Alexander Trechsel. Oxford University Press. Pages 645-667. \[[preprint](../files/social_networks_chapter.pdf)\]
+Cruz, Cesi, Horacio Larreguy, and John Marshall. 2020. [Social network effects in developing countries](https://academic.oup.com/edited-volume/28311/chapter/215023573). In the <i><b>Oxford Handbook of Electoral Persuasion</b></i>, edited by Elizabeth Suhay, Bernard Grofman, and Alexander Trechsel. Oxford University Press. Pages 645-667. \[[preprint](../files/social_networks_chapter.pdf)\]
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
   <details>
   <summary><i>Abstract</i></summary>
@@ -193,7 +193,7 @@ Enr&iacute;quez, Jos&eacute; Ram&oacute;n, Horacio Larreguy, John Marshall, and 
   </details>
 </div>
 
-* Larreguy, Horacio, John Marshall, and Pablo Querub&iacute;n. 2016. [When do parties buy turnout? How monitoring capacity facilitates voter mobilization in Mexico](https://www.cambridge.org/core/journals/american-political-science-review/article/parties-brokers-and-voter-mobilization-how-turnout-buying-depends-upon-the-partys-capacity-to-monitor-brokers/48C2C56999E4C50F47D3EBC920208E45). <i><b>American Political Science Review</b></i> 110(1):160-179. \[[preprint](../files/mexico_turnout_buying.pdf), [replication](https://www.dropbox.com/scl/fi/bm2tnazlj78eyfcsvewgd/Replication_Files.zip?rlkey=8rqanatpgg4okuxsw72k5t1ei&st=401m7qkw&dl=0)\]
+Larreguy, Horacio, John Marshall, and Pablo Querub&iacute;n. 2016. [When do parties buy turnout? How monitoring capacity facilitates voter mobilization in Mexico](https://www.cambridge.org/core/journals/american-political-science-review/article/parties-brokers-and-voter-mobilization-how-turnout-buying-depends-upon-the-partys-capacity-to-monitor-brokers/48C2C56999E4C50F47D3EBC920208E45). <i><b>American Political Science Review</b></i> 110(1):160-179. \[[preprint](../files/mexico_turnout_buying.pdf), [replication](https://www.dropbox.com/scl/fi/bm2tnazlj78eyfcsvewgd/Replication_Files.zip?rlkey=8rqanatpgg4okuxsw72k5t1ei&st=401m7qkw&dl=0)\]
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
   <details>
   <summary><i>Abstract</i></summary>
@@ -201,7 +201,7 @@ Enr&iacute;quez, Jos&eacute; Ram&oacute;n, Horacio Larreguy, John Marshall, and 
   </details>
 </div>
 
-* Larreguy, Horacio, John Marshall, and Laura Trucco. 2018. [Breaking clientelism or rewarding incumbents? Evidence from an urban titling program in Mexico](../files/corett.pdf). Working paper.
+Larreguy, Horacio, John Marshall, and Laura Trucco. 2018. [Breaking clientelism or rewarding incumbents? Evidence from an urban titling program in Mexico](../files/corett.pdf). Working paper.
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
   <details>
   <summary><i>Abstract</i></summary>
@@ -213,7 +213,7 @@ Enr&iacute;quez, Jos&eacute; Ram&oacute;n, Horacio Larreguy, John Marshall, and 
 
 ## COVID-19 vaccines: information, collective action, and vaccine diplomacy
 
-* Barham, Elena, Sarah Z. Daly, Julian E. Gerez, John Marshall, and Oscar Pocasangre. 2023. [Vaccine Diplomacy: How COVID-19 Vaccine Distribution in Latin America Increases Trust in Foreign Governments](https://muse.jhu.edu/pub/1/article/908776/summary?casa_token=9ULUEZ_gag4AAAAA:d0BQU1qhpFiZ7tBAChQ_lpa169q_HEXNPd8HkwhIqPp-zsKWWrPMm7bi3nDGdwfF1lV4f6Dzcxk). <i><b>World Politics</b></i> 75(4):826-875. \[[preprint](../files/vax_diplomacy.pdf), [replication](https://doi.org/10.7910/DVN/FHRRHD), [Foreign Policy](http://web.archive.org/web/20240723225110/https://foreignpolicy.com/2021/11/19/argentina-elections-covid-pandemic-sputnik-v-fernandez-russia-vaccine-diplomacy/?tpcc=recirc_latest062921)\]
+Barham, Elena, Sarah Z. Daly, Julian E. Gerez, John Marshall, and Oscar Pocasangre. 2023. [Vaccine Diplomacy: How COVID-19 Vaccine Distribution in Latin America Increases Trust in Foreign Governments](https://muse.jhu.edu/pub/1/article/908776/summary?casa_token=9ULUEZ_gag4AAAAA:d0BQU1qhpFiZ7tBAChQ_lpa169q_HEXNPd8HkwhIqPp-zsKWWrPMm7bi3nDGdwfF1lV4f6Dzcxk). <i><b>World Politics</b></i> 75(4):826-875. \[[preprint](../files/vax_diplomacy.pdf), [replication](https://doi.org/10.7910/DVN/FHRRHD), [Foreign Policy](http://web.archive.org/web/20240723225110/https://foreignpolicy.com/2021/11/19/argentina-elections-covid-pandemic-sputnik-v-fernandez-russia-vaccine-diplomacy/?tpcc=recirc_latest062921)\]
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
   <details>
   <summary><i>Abstract</i></summary>
@@ -221,7 +221,7 @@ Enr&iacute;quez, Jos&eacute; Ram&oacute;n, Horacio Larreguy, John Marshall, and 
   </details>
 </div>
 
-* Argote, Pablo, Elena Barham, Sarah Z. Daly, Julian E. Gerez, John Marshall, and Oscar Pocasangre. 2021. [Messages that increase COVID-19 vaccine acceptance: Evidence from online experiments in six Latin American countries](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259059). <i><b>PLoS One</b></i> 16(10):e0259059. \[[registration](https://www.socialscienceregistry.org/trials/7080), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZXSGQR), [Communication Initiative](http://web.archive.org/web/20240723225110/https://www.comminit.com/covid/content/messages-increase-covid-19-vaccine-acceptance-evidence-online-experiments-six-latin-amer)\]
+Argote, Pablo, Elena Barham, Sarah Z. Daly, Julian E. Gerez, John Marshall, and Oscar Pocasangre. 2021. [Messages that increase COVID-19 vaccine acceptance: Evidence from online experiments in six Latin American countries](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259059). <i><b>PLoS One</b></i> 16(10):e0259059. \[[registration](https://www.socialscienceregistry.org/trials/7080), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZXSGQR), [Communication Initiative](http://web.archive.org/web/20240723225110/https://www.comminit.com/covid/content/messages-increase-covid-19-vaccine-acceptance-evidence-online-experiments-six-latin-amer)\]
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
   <details>
   <summary><i>Abstract</i></summary>
@@ -229,7 +229,7 @@ Enr&iacute;quez, Jos&eacute; Ram&oacute;n, Horacio Larreguy, John Marshall, and 
   </details>
 </div>
 
-* Argote, Pablo, Elena Barham, Sarah Z. Daly, Julian E. Gerez, John Marshall, and Oscar Pocasangre. 2021. [The Shot, the Message, and the Messenger: COVID-19 Vaccine Acceptance in Latin America](https://www.nature.com/articles/s41541-021-00380-x). <i><b>Nature Partner Journal - Vaccines</b></i> 6:118. \[[registration](https://www.socialscienceregistry.org/trials/7080), [replication](https://github.com/sarahzdaly/Vaccine-Acceptance-in-Latin-America)\]
+Argote, Pablo, Elena Barham, Sarah Z. Daly, Julian E. Gerez, John Marshall, and Oscar Pocasangre. 2021. [The Shot, the Message, and the Messenger: COVID-19 Vaccine Acceptance in Latin America](https://www.nature.com/articles/s41541-021-00380-x). <i><b>Nature Partner Journal - Vaccines</b></i> 6:118. \[[registration](https://www.socialscienceregistry.org/trials/7080), [replication](https://github.com/sarahzdaly/Vaccine-Acceptance-in-Latin-America)\]
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
   <details>
   <summary><i>Abstract</i></summary>
