@@ -9,7 +9,7 @@ author_profile: true
 
 John Marshall. The news voters use: Information consumption and electoral accountability in Mexico. \[[book outline](../files/book_outline_2022.pdf)\]
 
-Bowles, Jeremy, Kevin Croke, Horacio Larreguy, Shelley Liu, and John Marshall. Forthcoming. [Sustaining Exposure to Fact-checks: Misinformation Discernment, Media Consumption, and its Political Implications](https://www.cambridge.org/core/journals/american-political-science-review/article/sustaining-exposure-to-factchecks-misinformation-discernment-media-consumption-and-its-political-implications/C9CC3A0C7BAF7BADBEF0DA6350A875C8). <i><b>American Political Science Review</b></i>. \[[preprint](../files/misinformation_podcasts.pdf), [registration](https://www.socialscienceregistry.org/trials/7615), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UNOOY0)\]
+Bowles, Jeremy, Kevin Croke, Horacio Larreguy, Shelley Liu, and John Marshall. 2025. [Sustaining Exposure to Fact-checks: Misinformation Discernment, Media Consumption, and its Political Implications](https://www.cambridge.org/core/journals/american-political-science-review/article/sustaining-exposure-to-factchecks-misinformation-discernment-media-consumption-and-its-political-implications/C9CC3A0C7BAF7BADBEF0DA6350A875C8). <i><b>American Political Science Review</b></i> 119(4):1864-1887. \[[preprint](../files/misinformation_podcasts.pdf), [registration](https://www.socialscienceregistry.org/trials/7615), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UNOOY0)\]
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
   <details>
   <summary><i>Abstract</i></summary>
