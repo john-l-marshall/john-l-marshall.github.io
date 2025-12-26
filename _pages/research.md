@@ -5,9 +5,37 @@ excerpt: "Research"
 author_profile: true
 ---
 
-## Information, citizen behavior, and political accountability/selection
+## Working papers/major ongoing projects
 
 John Marshall. The news voters use: Information consumption and electoral accountability in Mexico. \[[book outline](../files/book_outline_2022.pdf)\]
+
+Marshall, John. 2023. [Political information cycles: When do voters sanction incumbent parties for high homicide rates?](../files/tuning_in_voting_out.pdf) R&R, <i><b>Journal of the European Economic Association</b></i>.
+
+Bowles, Jeremy, John Marshall, and Pia Raffler. 2024. [Access to social media and support for elected autocrats: Field experimental and observational evidence from Uganda](../files/uganda_social_media.pdf). \[[registration](https://www.socialscienceregistry.org/trials/8267)\] R&R, <i><b>American Political Science Review</b></i>.
+
+Chmel, Kirill, Eunji Kim, John Marshall, Tiffany Fisher-Love, and Nathaniel Lubin. 2025. [How Social Media Creators Shape Mass Politics: A Field Experiment during the 2024 US Elections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5932534). Working paper.
+
+Kronick, Dorothy and John Marshall. 2024. [Collateral censorship: Theory and evidence from Venezuela](../files/rctv_venezuela.pdf). Working paper.
+
+Henn, Soeren J., Horacio Larreguy, and John Marshall. 2024. [How unobserved investments inhibit public service delivery in corrupt environments](../files/state_capacity_certification.pdf). Working paper.
+
+Enr&iacute;quez, Jos&eacute; Ram&oacute;n, Horacio Larreguy, John Marshall, and Alberto Simpser. 2024. Accountability under political polarization. Working paper (available upon request). \[[registration](https://www.socialscienceregistry.org/trials/7789)\]
+
+Larreguy, Horacio, Christopher Lucas, and John Marshall. 2024. When do media stations support political accountability? Evidence from a field experiment in Mexico. Working paper (available upon request). \[[registration](https://www.socialscienceregistry.org/trials/1186)\]
+
+Lucas, Christopher, John Marshall, and Zara Riaz. 2020. [Don't read all about it: Drug trafficking organizations and media reporting on violence in Mexico](../files/cartel_pressure.pdf). Working paper.
+
+Larreguy, Horacio, John Marshall, and Laura Trucco. 2018. [Breaking clientelism or rewarding incumbents? Evidence from an urban titling program in Mexico](../files/corett.pdf). Working paper.
+<div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
+  <details>
+  <summary><i>Abstract</i></summary>
+  Clientelism is common in developing countries, and often detrimentally affects political accountability and public good provision. However, little is known about how clientelistic ties can be broken because policy reforms that could reduce voter dependence on incumbents for special favors may also cause voters to reward the reform’s architects. Exploiting Mexico’s federal structure and changes in incumbency over time, we separate these countervailing effects in the context of a federal land titling program that reached nearly 2.2 million urban households over 35 years. Our results demonstrate that programmatic reforms can both reduce clientelism while also rewarding incumbents for their policies.
+  </details>
+</div>
+
+
+
+## Information, citizen behavior, and political accountability/selection
 
 Bowles, Jeremy, Kevin Croke, Horacio Larreguy, Shelley Liu, and John Marshall. 2025. [Sustaining Exposure to Fact-checks: Misinformation Discernment, Media Consumption, and its Political Implications](https://www.cambridge.org/core/journals/american-political-science-review/article/sustaining-exposure-to-factchecks-misinformation-discernment-media-consumption-and-its-political-implications/C9CC3A0C7BAF7BADBEF0DA6350A875C8). <i><b>American Political Science Review</b></i> 119(4):1864-1887. \[[preprint](../files/misinformation_podcasts.pdf), [registration](https://www.socialscienceregistry.org/trials/7615), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UNOOY0)\]
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
@@ -123,20 +151,6 @@ Marshall, John and Stephen D. Fisher. 2015. [Economic Globalization and Declinin
   </details>
 </div>
 
-Marshall, John. 2023. [Political information cycles: When do voters sanction incumbent parties for high homicide rates?](../files/tuning_in_voting_out.pdf) R&R, <i><b>Journal of the European Economic Association</b></i>.
-
-Bowles, Jeremy, John Marshall, and Pia Raffler. 2024. [Access to social media and support for elected autocrats: Field experimental and observational evidence from Uganda](../files/uganda_social_media.pdf). \[[registration](https://www.socialscienceregistry.org/trials/8267)\] R&R, <i><b>American Political Science Review</b></i>.
-
-Kronick, Dorothy and John Marshall. 2024. [Collateral censorship: Theory and evidence from Venezuela](../files/rctv_venezuela.pdf). Working paper.
-
-Henn, Soeren J., Horacio Larreguy, and John Marshall. 2024. [How unobserved investments inhibit public service delivery in corrupt environments](../files/state_capacity_certification.pdf). Working paper.
-
-Lucas, Christopher, John Marshall, and Zara Riaz. 2020. [Don't read all about it: Drug trafficking organizations and media reporting on violence in Mexico](../files/cartel_pressure.pdf). Working paper.
-
-Larreguy, Horacio, Christopher Lucas, and John Marshall. 2024. When do media stations support political accountability? Evidence from a field experiment in Mexico. Working paper (available upon request). \[[registration](https://www.socialscienceregistry.org/trials/1186)\]
-
-Enr&iacute;quez, Jos&eacute; Ram&oacute;n, Horacio Larreguy, John Marshall, and Alberto Simpser. 2024. Accountability under political polarization. Working paper (available upon request). \[[registration](https://www.socialscienceregistry.org/trials/7789)\]
-
 
 
 ## Education, political preferences, and voting behavior
@@ -149,7 +163,7 @@ Marshall, John. 2019. [The anti-Democrat diploma: How high school education decr
   </details>
 </div>
 
-Cavaille, Charlotte and John Marshall. 2019. [Education and anti-immigration attitudes: Evidence from compulsory schooling reforms across Western Europe](https://www.cambridge.org/core/journals/american-political-science-review/article/education-and-antiimmigration-attitudes-evidence-from-compulsory-schooling-reforms-across-western-europe/15551FC325C118588CF61113697488A3). <i><b>American Political Science Review</b></i> 113(1):254-263. \[[preprint](../files/education_immigration.pdf), [replication; the syntax and bias correction method for the "rdrobust" command have been updated since we published this paper](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDSRWF)\]
+Cavaille, Charlotte and John Marshall. 2019. [Education and anti-immigration attitudes: Evidence from compulsory schooling reforms across Western Europe](https://www.cambridge.org/core/journals/american-political-science-review/article/education-and-antiimmigration-attitudes-evidence-from-compulsory-schooling-reforms-across-western-europe/15551FC325C118588CF61113697488A3). <i><b>American Political Science Review</b></i> 113(1):254-263. \[[preprint](../files/education_immigration.pdf), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDSRWF) (syntax and bias correction method for the "rdrobust" command have been updated since we published this paper)\]
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
   <details>
   <summary><i>Abstract</i></summary>
@@ -173,7 +187,7 @@ Croke, Kevin, Guy Grossman, Horacio Larreguy, and John Marshall. 2016. [Delibera
   </details>
 </div>
 
-Marshall, John. 2016. [Education and voting Conservative: Evidence from a major schooling reform in Great Britain](https://www.journals.uchicago.edu/doi/full/10.1086/683848). <i><b>Journal of Politics</b></i> 78(2):382-395. \[[preprint](../files/britain_schooling_reform.pdf), [replication; the syntax and bias correction method for the "rdrobust" command have been updated since I published this paper](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YJMGPP)\]
+Marshall, John. 2016. [Education and voting Conservative: Evidence from a major schooling reform in Great Britain](https://www.journals.uchicago.edu/doi/full/10.1086/683848). <i><b>Journal of Politics</b></i> 78(2):382-395. \[[preprint](../files/britain_schooling_reform.pdf), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YJMGPP) (syntax and bias correction method for the "rdrobust" command have been updated since I published this paper)\]
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
   <details>
   <summary><i>Abstract</i></summary>
@@ -198,14 +212,6 @@ Larreguy, Horacio, John Marshall, and Pablo Querub&iacute;n. 2016. [When do part
   <details>
   <summary><i>Abstract</i></summary>
   Despite its prevalence, little is known about when parties buy turnout. We emphasize the problem of parties monitoring local brokers with incentives to shirk. Our model suggests that parties extract greater turnout buying effort from their brokers where they can better monitor broker performance and where favorable voters would not otherwise turn out. Exploiting exogenous variation in the number of polling stations—and thus electoral information about broker performance—in Mexican electoral precincts, we find that greater monitoring capacity increases turnout and votes for the National Action Party (PAN) and the Institutional Revolutionary Party (PRI). Consistent with our theoretical predictions, the effect of monitoring capacity on PRI votes varies nonlinearly with the distance of voters to the polling station: it first increases because rural voters—facing larger costs of voting—generally favor the PRI, before declining as the cost of incentivizing brokers increases. This nonlinearity is not present for the PAN, who stand to gain less from mobilizing rural voters.
-  </details>
-</div>
-
-Larreguy, Horacio, John Marshall, and Laura Trucco. 2018. [Breaking clientelism or rewarding incumbents? Evidence from an urban titling program in Mexico](../files/corett.pdf). Working paper.
-<div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
-  <details>
-  <summary><i>Abstract</i></summary>
-  Clientelism is common in developing countries, and often detrimentally affects political accountability and public good provision. However, little is known about how clientelistic ties can be broken because policy reforms that could reduce voter dependence on incumbents for special favors may also cause voters to reward the reform’s architects. Exploiting Mexico’s federal structure and changes in incumbency over time, we separate these countervailing effects in the context of a federal land titling program that reached nearly 2.2 million urban households over 35 years. Our results demonstrate that programmatic reforms can both reduce clientelism while also rewarding incumbents for their policies.
   </details>
 </div>
 
