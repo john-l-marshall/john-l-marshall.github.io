@@ -5,9 +5,15 @@ excerpt: "Research"
 author_profile: true
 ---
 
-## Working papers/major ongoing projects
+## Book projects
 
 John Marshall. The news voters use: Information consumption and electoral accountability in Mexico. \[[book outline](../files/book_outline_2022.pdf)\]
+
+Bandiera, Antonella, Horacio Larreguy, and John Marshall. Scaleable interventions to combat misinformation in the Global South. Under contract, <i><b>Cambridge University Press (Elements series)</b></i>. 
+
+
+
+## Working papers
 
 Marshall, John. 2023. [Political information cycles: When do voters sanction incumbent parties for high homicide rates?](../files/tuning_in_voting_out.pdf) R&R, <i><b>Journal of the European Economic Association</b></i>.
 
@@ -24,14 +30,6 @@ Enr&iacute;quez, Jos&eacute; Ram&oacute;n, Horacio Larreguy, John Marshall, and 
 Larreguy, Horacio, Christopher Lucas, and John Marshall. 2024. When do media stations support political accountability? Evidence from a field experiment in Mexico. Working paper (available upon request). \[[registration](https://www.socialscienceregistry.org/trials/1186)\]
 
 Lucas, Christopher, John Marshall, and Zara Riaz. 2020. [Don't read all about it: Drug trafficking organizations and media reporting on violence in Mexico](../files/cartel_pressure.pdf). Working paper.
-
-Larreguy, Horacio, John Marshall, and Laura Trucco. 2018. [Breaking clientelism or rewarding incumbents? Evidence from an urban titling program in Mexico](../files/corett.pdf). Working paper.
-<div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
-  <details>
-  <summary><i>Abstract</i></summary>
-  Clientelism is common in developing countries, and often detrimentally affects political accountability and public good provision. However, little is known about how clientelistic ties can be broken because policy reforms that could reduce voter dependence on incumbents for special favors may also cause voters to reward the reform’s architects. Exploiting Mexico’s federal structure and changes in incumbency over time, we separate these countervailing effects in the context of a federal land titling program that reached nearly 2.2 million urban households over 35 years. Our results demonstrate that programmatic reforms can both reduce clientelism while also rewarding incumbents for their policies.
-  </details>
-</div>
 
 
 
@@ -271,3 +269,14 @@ Marshall, John. 2016. [Coarsening bias: How instrumenting for coarsened treatmen
   </details>
 </div>
 
+
+
+## Resting papers
+
+Larreguy, Horacio, John Marshall, and Laura Trucco. 2018. [Breaking clientelism or rewarding incumbents? Evidence from an urban titling program in Mexico](../files/corett.pdf). Working paper.
+<div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
+  <details>
+  <summary><i>Abstract</i></summary>
+  Clientelism is common in developing countries, and often detrimentally affects political accountability and public good provision. However, little is known about how clientelistic ties can be broken because policy reforms that could reduce voter dependence on incumbents for special favors may also cause voters to reward the reform’s architects. Exploiting Mexico’s federal structure and changes in incumbency over time, we separate these countervailing effects in the context of a federal land titling program that reached nearly 2.2 million urban households over 35 years. Our results demonstrate that programmatic reforms can both reduce clientelism while also rewarding incumbents for their policies.
+  </details>
+</div>
