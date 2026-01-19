@@ -19,7 +19,7 @@ Marshall, John. 2023. [Political information cycles: When do voters sanction inc
 
 Bowles, Jeremy, John Marshall, and Pia Raffler. 2024. [Access to social media and support for elected autocrats: Field experimental and observational evidence from Uganda](../files/uganda_social_media.pdf). \[[registration](https://www.socialscienceregistry.org/trials/8267)\] R&R, <i><b>American Political Science Review</b></i>.
 
-Chmel, Kirill, Eunji Kim, John Marshall, Tiffany Fisher-Love, and Nathaniel Lubin. 2025. [How Social Media Creators Shape Mass Politics: A Field Experiment during the 2024 US Elections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5932534). Working paper.
+Chmel, Kirill, Eunji Kim, John Marshall, Tiffany Fisher-Love, and Nathaniel Lubin. 2025. [How Social Media Creators Shape Mass Politics: A Field Experiment during the 2024 US Elections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5932534). Working paper. [Wired article]([https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UNOOY0](https://www.wired.com/story/the-most-powerful-politics-influencers-barely-post-about-politics/))\]
 
 Kronick, Dorothy and John Marshall. 2024. [Collateral censorship: Theory and evidence from Venezuela](../files/rctv_venezuela.pdf). Working paper.
 
@@ -75,7 +75,7 @@ Arias, Eric, Horacio Larreguy, John Marshall, and Pablo Querub&iacute;n. 2022. [
   </details>
 </div>
 
-Alt, James E., Amalie Jensen, Horacio Larreguy, David D. Lassen, and John Marshall. 2022. [Diffusing political concerns: How unemployment information passed between social ties influences Danish voters](https://www.journals.uchicago.edu/doi/10.1086/714925). <i><b>Journal of Politics</b></i> 84(1):383-404. \[[preprint](../files/unemployment_and_networks.pdf), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HOLUME)\]
+Alt, James E., Amalie Jensen, Horacio Larreguy, David D. Lassen, and John Marshall. 2022. [Diffusing Political Concerns: How Unemployment Information Passed between Social Ties Influences Danish Voters](https://www.journals.uchicago.edu/doi/10.1086/714925). <i><b>Journal of Politics</b></i> 84(1):383-404. \[[preprint](../files/unemployment_and_networks.pdf), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HOLUME)\]
 <div style="margin-left: 30px; margin-top: -18px; margin-bottom: 12px;">
   <details>
   <summary><i>Abstract</i></summary>
