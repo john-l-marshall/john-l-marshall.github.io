@@ -17,7 +17,7 @@ Bandiera, Antonella, Horacio Larreguy, and John Marshall. Scaleable intervention
 
 Marshall, John. 2023. [Political information cycles: When do voters sanction incumbent parties for high homicide rates?](../files/tuning_in_voting_out.pdf) R&R, <i><b>Journal of the European Economic Association</b></i>.
 
-Bowles, Jeremy, John Marshall, and Pia Raffler. 2024. [Access to social media and support for elected autocrats: Field experimental and observational evidence from Uganda](../files/uganda_social_media.pdf). \[[registration](https://www.socialscienceregistry.org/trials/8267)\] Conditionally accepted, <i><b>American Political Science Review</b></i>.
+Bowles, Jeremy, John Marshall, and Pia Raffler. 2026. [Access to social media and support for elected autocrats: Field experimental and observational evidence from Uganda](../files/uganda_social_media.pdf). \[[registration](https://www.socialscienceregistry.org/trials/8267)\] Conditionally accepted, <i><b>American Political Science Review</b></i>.
 
 Chmel, Kirill, Eunji Kim, John Marshall, Tiffany Fisher-Love, and Nathaniel Lubin. 2025. [How Social Media Creators Shape Mass Politics: A Field Experiment during the 2024 US Elections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5932534). Working paper. \[[Wired article](https://www.wired.com/story/the-most-powerful-politics-influencers-barely-post-about-politics/)\]
 
